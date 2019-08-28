@@ -1,0 +1,5 @@
+name = "registryLH"
+repo = "https://github.com/hendri54/registryLH"
+uuid = "af402640-c98e-11e9-15bb-1160434e7d3f"
+
+[packages]
