@@ -4,3 +4,4 @@ uuid = "af402640-c98e-11e9-15bb-1160434e7d3f"
 
 [packages]
 430be53e-b6e1-11e9-3835-cd004dc5e9d7 = { name = "TestPkgLH", path = "T/TestPkgLH" }
+4e2d2e59-2624-5a4c-88c1-3d17c23cb908 = { name = "TestPkg2LH", path = "T/TestPkg2LH" }
