@@ -12,4 +12,5 @@ uuid = "af402640-c98e-11e9-15bb-1160434e7d3f"
 6b9ba4b8-a244-52b4-a4eb-1047c71ea0f4 = { name = "UtilityFunctionsLH", path = "U/UtilityFunctionsLH" }
 72fbd86f-1f1b-5c28-94df-d0426893c88f = { name = "EconometricsLH", path = "E/EconometricsLH" }
 96c8dc4a-d23f-53b2-b478-aad5d5ab80bd = { name = "CommonLH", path = "C/CommonLH" }
+d55768a2-e002-4631-a775-946d13a333f5 = { name = "PenaltiesLH", path = "P/PenaltiesLH" }
 e3939c25-9e30-5b59-80eb-f399ae42cd76 = { name = "EconLH", path = "E/EconLH" }
