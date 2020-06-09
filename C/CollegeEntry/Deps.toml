@@ -4,3 +4,8 @@ DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 EconLH = "e3939c25-9e30-5b59-80eb-f399ae42cd76"
 ModelParams = "4089ccbe-b1dc-5f86-a141-4606b18b4241"
+
+["0.1.9-0"]
+CommonLH = "96c8dc4a-d23f-53b2-b478-aad5d5ab80bd"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
