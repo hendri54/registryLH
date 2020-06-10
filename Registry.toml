@@ -6,6 +6,7 @@ repo = "https://github.com/hendri54/registryLH"
 10801879-faf9-5fee-b4da-d4f48ef6194b = { name = "StructLH", path = "S/StructLH" }
 22901f0c-de03-487b-854c-cad37ed05a00 = { name = "CollegeEntry", path = "C/CollegeEntry" }
 22e5d595-ed39-402f-9fe9-dc630efecdfd = { name = "ValueHistoriesLH", path = "V/ValueHistoriesLH" }
+3b0e1a96-b255-4d83-a0e1-e023bc9c9868 = { name = "PlotsLH", path = "P/PlotsLH" }
 4089ccbe-b1dc-5f86-a141-4606b18b4241 = { name = "ModelParams", path = "M/ModelParams" }
 430be53e-b6e1-11e9-3835-cd004dc5e9d7 = { name = "TestPkgLH", path = "T/TestPkgLH" }
 43a91d11-2366-4444-9ac6-7eb6ace4fe3c = { name = "EndowmentsLH", path = "E/EndowmentsLH" }
