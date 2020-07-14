@@ -18,5 +18,6 @@ repo = "https://github.com/hendri54/registryLH"
 7279015e-32d5-4a9c-a3a2-56f8f226bc2c = { name = "CollegeStratData", path = "C/CollegeStratData" }
 72fbd86f-1f1b-5c28-94df-d0426893c88f = { name = "EconometricsLH", path = "E/EconometricsLH" }
 96c8dc4a-d23f-53b2-b478-aad5d5ab80bd = { name = "CommonLH", path = "C/CommonLH" }
+bddd1445-09e8-4f50-b5c6-f025e4379dde = { name = "DataCollegeStrat", path = "D/DataCollegeStrat" }
 d55768a2-e002-4631-a775-946d13a333f5 = { name = "PenaltiesLH", path = "P/PenaltiesLH" }
 e3939c25-9e30-5b59-80eb-f399ae42cd76 = { name = "EconLH", path = "E/EconLH" }
