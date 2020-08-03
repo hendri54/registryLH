@@ -6,3 +6,7 @@ ModelParams = "4089ccbe-b1dc-5f86-a141-4606b18b4241"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 StructLH = "10801879-faf9-5fee-b4da-d4f48ef6194b"
 UtilityFunctionsLH = "6b9ba4b8-a244-52b4-a4eb-1047c71ea0f4"
+
+["0.1.1-0"]
+NLopt = "76087f3c-5699-56af-9a33-bf431cd00edd"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
