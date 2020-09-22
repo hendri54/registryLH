@@ -1,9 +1,11 @@
 [0]
 ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
 DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
-Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 EconLH = "e3939c25-9e30-5b59-80eb-f399ae42cd76"
 ModelParams = "4089ccbe-b1dc-5f86-a141-4606b18b4241"
+
+["0-0.2.3"]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 
 ["0.1.9-0"]
 CommonLH = "96c8dc4a-d23f-53b2-b478-aad5d5ab80bd"
