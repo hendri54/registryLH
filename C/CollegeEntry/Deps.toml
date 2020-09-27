@@ -11,3 +11,6 @@ Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 CommonLH = "96c8dc4a-d23f-53b2-b478-aad5d5ab80bd"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+["0.2.9-0"]
+LatexLH = "5ba6fdca-9616-4e1b-a942-77ddac530f53"
