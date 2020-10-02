@@ -14,3 +14,6 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
 ["0.2.9-0"]
 LatexLH = "5ba6fdca-9616-4e1b-a942-77ddac530f53"
+
+["0.3.4-0"]
+StructLH = "10801879-faf9-5fee-b4da-d4f48ef6194b"
