@@ -10,3 +10,6 @@ UtilityFunctionsLH = "6b9ba4b8-a244-52b4-a4eb-1047c71ea0f4"
 ["0.1.1-0"]
 NLopt = "76087f3c-5699-56af-9a33-bf431cd00edd"
 Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+
+["0.1.2-0"]
+ModelObjectsLH = "41cbb5d9-4a7a-4d38-8546-f9486737fd3b"
