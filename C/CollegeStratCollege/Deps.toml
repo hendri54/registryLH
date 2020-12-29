@@ -1,0 +1,10 @@
+[0]
+CollegeStratBase = "bfa38a7c-6709-4380-90e8-18b172effef4"
+CommonLH = "96c8dc4a-d23f-53b2-b478-aad5d5ab80bd"
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+EconometricsLH = "72fbd86f-1f1b-5c28-94df-d0426893c88f"
+Lazy = "50d2b5c4-7a5e-59d5-8109-a42b560f39c0"
+ModelObjectsLH = "41cbb5d9-4a7a-4d38-8546-f9486737fd3b"
+ModelParams = "4089ccbe-b1dc-5f86-a141-4606b18b4241"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+StructLH = "10801879-faf9-5fee-b4da-d4f48ef6194b"
