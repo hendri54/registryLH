@@ -4,3 +4,7 @@ DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
 ["0.1.1-0"]
 CommonLH = "96c8dc4a-d23f-53b2-b478-aad5d5ab80bd"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+["0.1.4-0"]
+ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
+StructLH = "10801879-faf9-5fee-b4da-d4f48ef6194b"
