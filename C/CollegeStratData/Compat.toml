@@ -9,7 +9,9 @@ CSV = "0.7.7-0.8"
 DataFrames = "0.21.7-0.22"
 FilesLH = "0.2-0.3"
 
+["1.2"]
+FilesLH = "0.2"
+
 ["1.2-1"]
 CSV = "0.8"
 DataFrames = "0.22"
-FilesLH = "0.2"
