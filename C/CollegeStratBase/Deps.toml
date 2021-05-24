@@ -5,3 +5,6 @@ FilesLH = "69233b93-b644-4f5d-9b2e-8880c8b19068"
 Formatting = "59287772-0a20-5a39-b81b-1366585eb4c0"
 LatexLH = "5ba6fdca-9616-4e1b-a942-77ddac530f53"
 PrettyTables = "08abe8d2-0d0c-5749-adfa-8a2ac140af0d"
+
+["0.2-0"]
+StructLH = "10801879-faf9-5fee-b4da-d4f48ef6194b"
