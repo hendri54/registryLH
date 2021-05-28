@@ -9,6 +9,7 @@ repo = "https://github.com/hendri54/registryLH"
 298b45c6-23f3-4de3-ba2c-df38223c59b0 = { name = "DeviationsLH", path = "D/DeviationsLH" }
 2a03911c-38cb-4991-90cf-b19c323ec85f = { name = "CollegeStratWorker", path = "C/CollegeStratWorker" }
 3b0e1a96-b255-4d83-a0e1-e023bc9c9868 = { name = "PlotsLH", path = "P/PlotsLH" }
+3f1e771f-3101-4d3b-986b-cbece13f4079 = { name = "CollegeStratPlots", path = "C/CollegeStratPlots" }
 4089ccbe-b1dc-5f86-a141-4606b18b4241 = { name = "ModelParams", path = "M/ModelParams" }
 41cbb5d9-4a7a-4d38-8546-f9486737fd3b = { name = "ModelObjectsLH", path = "M/ModelObjectsLH" }
 430be53e-b6e1-11e9-3835-cd004dc5e9d7 = { name = "TestPkgLH", path = "T/TestPkgLH" }
