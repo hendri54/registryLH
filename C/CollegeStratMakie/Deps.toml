@@ -1,0 +1,9 @@
+[0]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+CollegeStratBase = "bfa38a7c-6709-4380-90e8-18b172effef4"
+ColorSchemes = "35d6a980-a343-548e-a6ea-1d62b119f2f4"
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+FilesLH = "69233b93-b644-4f5d-9b2e-8880c8b19068"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
