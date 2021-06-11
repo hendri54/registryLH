@@ -23,3 +23,6 @@ ModelObjectsLH = "41cbb5d9-4a7a-4d38-8546-f9486737fd3b"
 
 ["0.3.8-0"]
 Lazy = "50d2b5c4-7a5e-59d5-8109-a42b560f39c0"
+
+["0.4.3-0"]
+TestSetExtensions = "98d24dd4-01ad-11ea-1b02-c9a08f80db04"
