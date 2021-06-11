@@ -14,7 +14,12 @@ FilesLH = "0.2"
 
 ["1.2-1"]
 CSV = "0.8"
+
+["1.2-1.8"]
 DataFrames = "0.22"
 
 ["1.4-1"]
 DataCollegeStrat = "1.1.0-1"
+
+["1.9-1"]
+DataFrames = "1"
