@@ -19,3 +19,7 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
 ["0.9.4-1"]
 ModelObjectsLH = "41cbb5d9-4a7a-4d38-8546-f9486737fd3b"
+
+["1.1-1"]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+Lazy = "50d2b5c4-7a5e-59d5-8109-a42b560f39c0"
