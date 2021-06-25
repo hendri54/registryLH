@@ -3,3 +3,8 @@ julia = "1.0.0-1"
 
 ["0.2-0"]
 julia = "1"
+
+["0.3.3-0"]
+ArgCheck = "2"
+DocStringExtensions = "0.8"
+Documenter = "0.27"
