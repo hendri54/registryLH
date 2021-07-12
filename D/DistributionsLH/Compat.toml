@@ -3,3 +3,10 @@ julia = "1"
 
 ["0.2-0"]
 julia = "1.5.0-1"
+
+["0.3-0"]
+Distributions = "0.24.5-0.25"
+DocStringExtensions = "0.8.1-0.8"
+Lazy = "0.15-0.16"
+Parameters = "0.12"
+StatsBase = "0.33"

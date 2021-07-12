@@ -15,3 +15,6 @@ StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 ["0.1.6-0"]
 ModelObjectsLH = "41cbb5d9-4a7a-4d38-8546-f9486737fd3b"
+
+["0.3-0"]
+Lazy = "50d2b5c4-7a5e-59d5-8109-a42b560f39c0"
