@@ -1,4 +1,4 @@
-[0]
+[0-1]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
 FilesLH = "69233b93-b644-4f5d-9b2e-8880c8b19068"
@@ -6,5 +6,9 @@ Formatting = "59287772-0a20-5a39-b81b-1366585eb4c0"
 LatexLH = "5ba6fdca-9616-4e1b-a942-77ddac530f53"
 PrettyTables = "08abe8d2-0d0c-5749-adfa-8a2ac140af0d"
 
-["0.2-0"]
+["0.2-1"]
 StructLH = "10801879-faf9-5fee-b4da-d4f48ef6194b"
+
+[1]
+ModelParams = "4089ccbe-b1dc-5f86-a141-4606b18b4241"
+StableRNGs = "860ef19b-820b-49d6-a774-d7a799459cd3"
