@@ -1,4 +1,4 @@
-[0]
+[0-1]
 CommonLH = "96c8dc4a-d23f-53b2-b478-aad5d5ab80bd"
 DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
@@ -7,13 +7,13 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 StructLH = "10801879-faf9-5fee-b4da-d4f48ef6194b"
 UtilityFunctionsLH = "6b9ba4b8-a244-52b4-a4eb-1047c71ea0f4"
 
-["0.1.1-0"]
+["0.1.1-1"]
 NLopt = "76087f3c-5699-56af-9a33-bf431cd00edd"
 Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
 
-["0.1.2-0"]
+["0.1.2-1"]
 ModelObjectsLH = "41cbb5d9-4a7a-4d38-8546-f9486737fd3b"
 
-["0.2-0"]
+["0.2-1"]
 CollegeStratBase = "bfa38a7c-6709-4380-90e8-18b172effef4"
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
