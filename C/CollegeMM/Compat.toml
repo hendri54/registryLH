@@ -1,0 +1,4 @@
+[1]
+DocStringExtensions = "0.8"
+Lazy = "0.13-0.15"
+julia = "1"
