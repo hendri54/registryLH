@@ -7,6 +7,7 @@ repo = "https://github.com/hendri54/registryLH"
 154532ee-98b9-4eab-88d3-567e736435ea = { name = "CasesLH", path = "C/CasesLH" }
 22901f0c-de03-487b-854c-cad37ed05a00 = { name = "CollegeEntry", path = "C/CollegeEntry" }
 22e5d595-ed39-402f-9fe9-dc630efecdfd = { name = "ValueHistoriesLH", path = "V/ValueHistoriesLH" }
+25689b0a-9a0b-424c-bbb1-e75cce8a2a0d = { name = "DirectoriesMM", path = "D/DirectoriesMM" }
 298b45c6-23f3-4de3-ba2c-df38223c59b0 = { name = "DeviationsLH", path = "D/DeviationsLH" }
 2a03911c-38cb-4991-90cf-b19c323ec85f = { name = "CollegeStratWorker", path = "C/CollegeStratWorker" }
 32a31e0c-6007-4c9d-b9d4-39ee3e8faef4 = { name = "CollegeStratMakie", path = "C/CollegeStratMakie" }
