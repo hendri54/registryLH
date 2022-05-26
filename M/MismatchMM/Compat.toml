@@ -1,4 +1,4 @@
-[1]
+[1-2]
 ArgCheck = "2"
 CairoMakie = "0.7"
 CasesLH = "0.2"
@@ -40,3 +40,6 @@ StructLH = "1"
 UtilityFunctionsLH = "0.2"
 ValueHistoriesLH = "1"
 julia = "1.5.0-1"
+
+[2]
+MultiStartLH = "1"

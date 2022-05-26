@@ -1,4 +1,4 @@
-[1]
+[1-2]
 ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
 CasesLH = "154532ee-98b9-4eab-88d3-567e736435ea"
@@ -45,3 +45,9 @@ StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 StructLH = "10801879-faf9-5fee-b4da-d4f48ef6194b"
 UtilityFunctionsLH = "6b9ba4b8-a244-52b4-a4eb-1047c71ea0f4"
 ValueHistoriesLH = "22e5d595-ed39-402f-9fe9-dc630efecdfd"
+
+[2]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+MultiStartLH = "a5e8eef2-c7ea-489d-a6c6-78155c81204a"
+Permutations = "2ae35dd2-176d-5d53-8349-f30d82d94d4f"
