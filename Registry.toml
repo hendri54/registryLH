@@ -34,4 +34,5 @@ c694bcda-1d79-48d5-9cef-2dae0846c68b = { name = "MismatchMM", path = "M/Mismatch
 d55768a2-e002-4631-a775-946d13a333f5 = { name = "PenaltiesLH", path = "P/PenaltiesLH" }
 d599ba40-5627-4e4f-b033-e40cc74d6877 = { name = "ModelStatisticsLH", path = "M/ModelStatisticsLH" }
 e3939c25-9e30-5b59-80eb-f399ae42cd76 = { name = "EconLH", path = "E/EconLH" }
+e66e579b-d300-4428-8a77-c081a570a3b1 = { name = "ClassFigures", path = "C/ClassFigures" }
 f9770d44-d9d3-4282-8d90-ec50d637f0bd = { name = "ToggledLH", path = "T/ToggledLH" }
