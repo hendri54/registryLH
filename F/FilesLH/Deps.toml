@@ -8,3 +8,6 @@ CommonLH = "96c8dc4a-d23f-53b2-b478-aad5d5ab80bd"
 
 ["0.1.6-0.1.8"]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
+["1.1-1"]
+Glob = "c27321d9-0574-5035-807b-f59d2c89b15c"
