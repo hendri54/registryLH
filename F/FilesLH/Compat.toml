@@ -5,3 +5,6 @@ julia = "1"
 ArgCheck = "2.1.0-2"
 Parameters = "0.12"
 julia = "1.4.0-1"
+
+["1.2-1"]
+Glob = "1"
