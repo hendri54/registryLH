@@ -11,3 +11,7 @@ StructLH = "10801879-faf9-5fee-b4da-d4f48ef6194b"
 
 ["1.0.1-2"]
 DirectoriesMM = "25689b0a-9a0b-424c-bbb1-e75cce8a2a0d"
+
+["2.1-2"]
+EconLH = "e3939c25-9e30-5b59-80eb-f399ae42cd76"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
