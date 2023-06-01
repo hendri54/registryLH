@@ -4,9 +4,21 @@ julia = "1"
 ["0.2-1"]
 julia = "1.5.0-1"
 
+["0.3-0"]
+DocStringExtensions = "0.8.1-0.8"
+StatsBase = "0.33"
+
 ["0.3-1"]
 Distributions = "0.24.5-0.25"
-DocStringExtensions = "0.8.1-0.8"
 Lazy = "0.15-0.16"
 Parameters = "0.12"
+
+["1.0"]
+DocStringExtensions = "0.8.1-0.8"
 StatsBase = "0.33"
+
+["1.1-1"]
+DocStringExtensions = "0.8.1-0.9"
+ModelObjectsLH = "1"
+ModelParams = "2-3"
+StatsBase = "0.33-0.34"
