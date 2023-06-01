@@ -21,7 +21,16 @@ PrettyTables = ["0.10-0.12", "1"]
 
 ["1.0.2-1"]
 DocStringExtensions = "0.8-0.9"
-HypothesisTests = "0.10"
 PrettyTables = "1-2"
+
+["1.0.2-1.0"]
+HypothesisTests = "0.10"
 StatsBase = "0.30-0.33"
 StatsModels = "0.6"
+
+["1.1-1"]
+CommonLH = "1"
+FilesLH = "1"
+HypothesisTests = "0.10-0.11"
+StatsBase = "0.30-0.34"
+StatsModels = "0.6-0.7"
