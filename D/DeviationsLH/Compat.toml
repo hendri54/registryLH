@@ -12,3 +12,6 @@ Formatting = "0.4"
 [2]
 DocStringExtensions = "0.8-0.9"
 PrettyTables = "1-2"
+
+["2.1-2"]
+CommonLH = "1.0.1-1"
