@@ -1,12 +1,29 @@
 ["0-0.2.1"]
 julia = "1"
 
-["0.2.1-1"]
+["0.2.1-0"]
 Interpolations = "0.13"
-NLopt = "0.6"
 Roots = "1"
 
-["0.2.2-1"]
+["0.2.1-1"]
+NLopt = "0.6"
+
+["0.2.2-0"]
 DocStringExtensions = "0.8"
+
+["0.2.2-1"]
 Documenter = "0.27"
 julia = "1.5.0-1"
+
+["1.0"]
+DocStringExtensions = "0.8"
+Interpolations = "0.13"
+Roots = "1"
+
+["1.1-1"]
+ArgCheck = "1-2"
+CommonLH = "1"
+DocStringExtensions = "0.8-0.9"
+Infiltrator = "1"
+Interpolations = "0.13-0.14"
+Roots = "1-2"
