@@ -21,6 +21,7 @@ repo = "https://github.com/hendri54/registryLH"
 4e2d2e59-2624-5a4c-88c1-3d17c23cb908 = { name = "TestPkg2LH", path = "T/TestPkg2LH" }
 54f0e08d-2c1f-4f05-829a-0c9e5bebf979 = { name = "CollegeStratCollege", path = "C/CollegeStratCollege" }
 5ba6fdca-9616-4e1b-a942-77ddac530f53 = { name = "LatexLH", path = "L/LatexLH" }
+61a04d56-1d0a-4ee4-a68a-372a05cc177d = { name = "BaseMM", path = "B/BaseMM" }
 69233b93-b644-4f5d-9b2e-8880c8b19068 = { name = "FilesLH", path = "F/FilesLH" }
 6b9ba4b8-a244-52b4-a4eb-1047c71ea0f4 = { name = "UtilityFunctionsLH", path = "U/UtilityFunctionsLH" }
 7279015e-32d5-4a9c-a3a2-56f8f226bc2c = { name = "CollegeStratData", path = "C/CollegeStratData" }
