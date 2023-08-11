@@ -17,5 +17,8 @@ DataCollegeStrat = "bddd1445-09e8-4f50-b5c6-f025e4379dde"
 ["0.2.9-2"]
 DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 
-["1.5-2"]
+["1.5-2.5"]
 CollegeStratBase = "bfa38a7c-6709-4380-90e8-18b172effef4"
+
+["2.6-2"]
+BaseMM = "61a04d56-1d0a-4ee4-a68a-372a05cc177d"
