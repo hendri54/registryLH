@@ -7,6 +7,8 @@ PrettyTables = "1"
 
 [1-2]
 ArgCheck = "2"
+
+["1-2.3"]
 Formatting = "0.4"
 
 [2]
@@ -15,3 +17,6 @@ PrettyTables = "1-2"
 
 ["2.1-2"]
 CommonLH = "1.0.1-1"
+
+["2.4-2"]
+Format = "1"
