@@ -1,7 +1,7 @@
-["0-0.2.8"]
+["0 - 0.2.8"]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 
-[0-2]
+["0 - 3"]
 ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 CommonLH = "96c8dc4a-d23f-53b2-b478-aad5d5ab80bd"
@@ -11,14 +11,14 @@ EconometricsLH = "72fbd86f-1f1b-5c28-94df-d0426893c88f"
 FilesLH = "69233b93-b644-4f5d-9b2e-8880c8b19068"
 Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
 
-["0.2.4-2"]
+["0.2.4 - 3"]
 DataCollegeStrat = "bddd1445-09e8-4f50-b5c6-f025e4379dde"
 
-["0.2.9-2"]
+["0.2.9 - 3"]
 DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 
-["1.5-2.5"]
+["1.5 - 2.5"]
 CollegeStratBase = "bfa38a7c-6709-4380-90e8-18b172effef4"
 
-["2.6-2"]
+["2.6 - 3"]
 BaseMM = "61a04d56-1d0a-4ee4-a68a-372a05cc177d"
