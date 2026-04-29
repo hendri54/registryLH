@@ -4,7 +4,7 @@ julia = "1.0.0-1"
 ["0.5.5-0"]
 julia = "1"
 
-[1-4]
+[1-5]
 ArgCheck = "2"
 julia = "1.5.0-1"
 
@@ -17,20 +17,28 @@ Formatting = "0.4"
 
 ["1.1-4"]
 DataStructures = "0.17-0.18"
+
+["1.1-5"]
 Lazy = "0.14-0.15"
 Parameters = "0.11-0.12"
 
-["2.0.1-4"]
+["2.0.1-5"]
 Infiltrator = "1"
 
 ["2.3-4"]
+ModelObjectsLH = "1"
+
+["2.3-5"]
 DocStringExtensions = "0.8-0.9"
 EconometricsLH = "1"
-ModelObjectsLH = "1"
 PrettyTables = "1-2"
 
 ["4.0"]
 Formatting = "0.4"
 
-["4.1-4"]
+["4.1-5"]
 Format = "1"
+
+[5]
+CommonLH = "1.5.0-1"
+DataStructures = "0.17-0.19"
